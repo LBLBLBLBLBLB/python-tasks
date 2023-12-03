@@ -1,3 +1,4 @@
+# find average height of students
 students_height = input("input a list of student heights").split()
 
 for n in range(0, len(students_height)):
