@@ -1,3 +1,4 @@
+# simple encode and decode program
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
            'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r',
            's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
@@ -22,4 +23,4 @@ def caesar(plain_text, shift_amount, cipher_direction):
     print(f"the {cipher_direction}d text is {final_text}")
 
 
-caesar(text,shift,direction)
+caesar(text, shift, direction)
