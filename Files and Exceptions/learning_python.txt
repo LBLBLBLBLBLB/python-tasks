@@ -1,0 +1,10 @@
+In Python you can define variables without specifying their type.
+In Python you can create functions using the def keyword.
+In Python you can use loops like for and while for iteration.
+In Python you can import modules to extend functionality.
+In Python you can handle exceptions using try-except blocks.
+In Python you can work with different data structures like lists, tuples, and dictionaries.
+In Python you can create classes and define methods to model real-world entities.
+In Python you can utilize libraries like NumPy, pandas, and matplotlib for data analysis and visualization.
+In Python you can build web applications using frameworks like Django or Flask.
+In Python you can write clean and readable code by following the PEP 8 guidelines.
